@@ -21,3 +21,4 @@ Click [here](https://github.com/bhushangoel/react-project) then download the .zi
 	> npm install
 	> npm start
 ```
+NOTE:  There are multiple apps in here. If you want to run simple started app than rename src to src-app2 and src-app1 to src.
