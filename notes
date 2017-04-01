@@ -1,0 +1,3 @@
+react-redux library is used for the communication between react and redux part
+# React Container
+    a container is a react component that has a direct connection to the state managed by redux
